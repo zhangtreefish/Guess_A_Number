@@ -1,4 +1,4 @@
-# This is to test-run an app (Full Stack Nanodegree Project 4 Refresh), 
+# This is to test-run an app (Full Stack Nanodegree Project 4 Refresh)
 copied from https://github.com/udacity/FSND-P4-Design-A-Game
 
 ## Set-Up Instructions:
